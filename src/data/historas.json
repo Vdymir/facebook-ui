@@ -1,0 +1,44 @@
+[
+    {
+        "id": "01",
+        "imgBg": "https://i.pinimg.com/564x/0b/92/59/0b9259e2e1e01943cde81f29e95742bd.jpg",
+        "imgPft" : "https://i.pinimg.com/564x/2e/55/43/2e554351b6d0343a0b84b491efdb64c4.jpg",
+        "name" : "Nicolas Castañeda"
+    },
+    {
+        "id": "02",
+        "imgBg": "https://i.pinimg.com/564x/3e/72/23/3e7223e531f27c413557987f81a4169a.jpg",
+        "imgPft": "https://i.pinimg.com/564x/c2/06/e4/c206e401cefc9f989b0a99492ae83721.jpg",
+        "name": "Daysi Martinez"
+    },
+    {
+        "id": "03",
+        "imgBg": "https://i.pinimg.com/564x/3e/a9/ba/3ea9ba9e84ab6808a394b6aa165c1673.jpg",
+        "imgPft": "https://i.pinimg.com/564x/94/ae/d9/94aed927ade332238b5e85a331392295.jpg",
+        "name": "Paula Martinez"
+    },
+    {
+        "id": "04",
+        "imgBg": "https://i.pinimg.com/564x/1f/57/50/1f5750d69f34ea260aa820fd67ca2c45.jpg",
+        "imgPft": "https://i.pinimg.com/564x/c9/33/34/c9333430f8a67f0f7923f1c810e7553a.jpg",
+        "name": "Jose Gonzalez"
+    },
+    {
+        "id": "05",
+        "imgBg": "https://i.pinimg.com/564x/4c/08/89/4c0889a1ae0d659b49eb7a3ade72c558.jpg",
+        "imgPft": "https://i.pinimg.com/736x/87/58/d9/8758d9a3825b7ba3abb81a29905f080a.jpg",
+        "name": "Rosa Sarmiento"
+    },
+    {
+        "id": "06",
+        "imgBg": "https://i.pinimg.com/564x/b8/05/c7/b805c764549b4d6d118555336f29a347.jpg",
+        "imgPft": "https://i.pinimg.com/564x/c6/65/ba/c665badb4b8a0d8903daa5038748b179.jpg",
+        "name": "Juan Manuel"
+    },
+    {
+        "id": "07",
+        "imgBg": "https://i.pinimg.com/564x/29/35/27/2935272557d6476f9329749ee2bc8689.jpg",
+        "imgPft": "https://i.pinimg.com/564x/1c/aa/05/1caa05e80d91fa551de16465e6ee0118.jpg",
+        "name": "Matt Martinez"
+    }
+]
